@@ -1,0 +1,41 @@
+section {
+    white-space: pre-line;
+    white-space: pre-wrap; 
+}
+
+.contenu-img{
+    width: 100%;
+}
+
+.contenu-alt{
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom:15px;
+}
+
+.containerP {
+    display: flex;
+    flex-direction: column;
+}
+
+.ul {
+    list-style: none;
+    padding: 0;
+    margin: auto;
+
+}
+
+.li {
+    display: inline;
+}
+
+.a {
+    text-decoration: none;
+    margin: 5px /* Espacement entre les boutons */
+}
+
+
+.btn {
+    display: inline-block;
+    margin: 2px;
+}

@@ -1,0 +1,19 @@
+.footbar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    width: 100%;
+    min-height: 75px;
+    padding: 1rem;
+    background-color: #000;
+    color: #FFF;
+    left: 0;
+    bottom: 0;
+    text-align: center
+}
+
+.footbar__links {
+    display: flex;
+}
